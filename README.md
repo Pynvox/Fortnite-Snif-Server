@@ -32,13 +32,13 @@ A tiny helper that watches **UDP** traffic from Fortnite (or other whitelisted g
    Test popup:
 
    ```bash
-   python fortnite_sniffer_notify.py --test
+   py fortnite_sniffer_notify.py --test
    ```
 
 If you prefer no UI and only console:
 
 ```bash
-python fortnite_sniffer_notify.py --no-ui
+py fortnite_sniffer_notify.py --no-ui
 ```
 
 ---
